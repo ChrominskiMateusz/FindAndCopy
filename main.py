@@ -1,5 +1,5 @@
 """
-Program to copy files with given extensions
+Copy files with given extensions
 from given directory and all of its subdirectories
 to a given destination
 """
