@@ -19,4 +19,4 @@ def runMain(src, dst, ext):
 
 
 if __name__ == '__main__':
-    runMain(input("Type in src\n"), input("Type in dst\n"), input("Type in exts\n"))
+    runMain(input("Type in src\n"), input("Type in dst\n"), input("Type in exts\n").split(' '))
